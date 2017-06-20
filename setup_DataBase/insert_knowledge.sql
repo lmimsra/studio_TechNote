@@ -1,0 +1,9 @@
+insert into knowledge(id,title,description,create_at,update_at)values(1,'title1','description',cast('2015/06/30 09:00:12' as date),cast('2015/06/30 09:00:12' as date));
+insert into knowledge(id,title,description,create_at,update_at)values(2,'title2','description',cast('2015/06/30 09:00:12' as date),cast('2015/06/30 09:00:12' as date));
+insert into knowledge(id,title,description,create_at,update_at)values(3,'title3','description',cast('2015/06/30 09:00:12' as date),cast('2015/06/30 09:00:12' as date));
+insert into knowledge(id,title,description,create_at,update_at)values(4,'title4','description',cast('2015/06/30 09:00:12' as date),cast('2015/06/30 09:00:12' as date));
+insert into knowledge(id,title,description,create_at,update_at)values(5,'title5','description',cast('2015/06/30 09:00:12' as date),cast('2015/06/30 09:00:12' as date));
+insert into knowledge(id,title,description,create_at,update_at)values(6,'title6','description',cast('2015/06/30 09:00:12' as date),cast('2015/06/30 09:00:12' as date));
+insert into knowledge(id,title,description,create_at,update_at)values(7,'title7','description',cast('2015/06/30 09:00:12' as date),cast('2015/06/30 09:00:12' as date));
+insert into knowledge(id,title,description,create_at,update_at)values(8,'title8','description',cast('2015/06/30 09:00:12' as date),cast('2015/06/30 09:00:12' as date));
+insert into knowledge(id,title,description,create_at,update_at)values(9,'title9','description',cast('2015/06/30 09:00:12' as date),cast('2015/06/30 09:00:12' as date));
