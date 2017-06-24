@@ -38,7 +38,7 @@ PCサイズ(1025px以上)を対象にしたサイズ
 <a href="#" class="button round">Round Button</a> ※使用不可
 <a href="#" class="button radius">Radius Button</a> ※使用不可
 
-<!-- Radius Classes -->
+<!-- Color -->
 <a href="#" class="button">Default Button</a>
 <a href="#" class="button success">Success Button</a>
 <a href="#" class="button secondary">Secondary Button</a>
