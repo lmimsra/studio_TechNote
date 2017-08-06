@@ -39,4 +39,4 @@ $
 1. http://localhost:8080 に接続してwildflyのトップ画面が出れば完了  
 
 ## 2.Datasourceを作成  
-1. http://localhost:8080 から
+1. http://localhost:8080 から"Administration Console"をクリックしてコンソールを開く  
